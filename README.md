@@ -4,4 +4,4 @@ This project is a C++ real-time, console-based game that provides interfaces for
 
 ![](gif-wall-game.gif)
 
-This code was developed with the help of courses and tutorials from [CodeMaster101](www.youtube.com/@CodeMaster101).
+This code was developed with the help of courses and tutorials from [CodeMaster101](https://youtube.com/@codemaster101?feature=shared).
